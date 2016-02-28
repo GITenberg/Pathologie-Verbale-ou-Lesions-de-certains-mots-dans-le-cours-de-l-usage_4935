@@ -1,0 +1,29 @@
+_repo: Pathologie-Verbale-ou-Lesions-de-certains-mots-dans-le-cours-de-l-usage_4935
+creator:
+  author:
+    agent_name: Littré, Emile
+    aliases:
+    - Littré, Paul-Emile
+    - Littre, Emile
+    birthdate: 1801
+    deathdate: 1881
+    gutenberg_agent_id: '1595'
+    url: http://www.gutenberg.org/2009/agents/1595
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89mile_Littr%C3%A9
+description: ''
+gutenberg_bookshelf: FR Langues
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4935'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Paronyms -- Dictionaries'
+- !lcc 'PC'
+- !lcsh 'French language -- Errors of usage'
+- !lcsh 'French language -- Etymology'
+title: Pathologie Verbale, ou Lésions de certains mots dans le cours de l'usage
+url: http://www.gutenberg.org/ebooks/4935
