@@ -1,5 +1,5 @@
 _repo: Pathologie-Verbale-ou-Lesions-de-certains-mots-dans-le-cours-de-l-usage_4935
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcc 'PC'
 - !lcsh 'French language -- Errors of usage'
 - !lcsh 'French language -- Etymology'
+- GITenberg
 title: Pathologie Verbale, ou Lésions de certains mots dans le cours de l'usage
 url: http://www.gutenberg.org/ebooks/4935
